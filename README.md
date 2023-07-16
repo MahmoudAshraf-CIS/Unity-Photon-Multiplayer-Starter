@@ -33,11 +33,11 @@ Watch a demo of the game in action:
 
 ## Contributing
 
-If you would like to contribute to the game, you can fork the repository and submit a pull request with your changes. Please make sure to follow the [contribution guidelines](CONTRIBUTING.md) before submitting your pull request.
+If you would like to contribute to the game, you can fork the repository and submit a pull request with your changes. 
 
 ## Credits
 
-This game was developed by [Your Name] using Unity and the Photon plugin. Special thanks to Photon for providing the networking technology.
+This game was developed by me using Unity and the Photon plugin. Special thanks to Photon for providing the networking technology.
 
 ## License
 
