@@ -1,5 +1,3 @@
-Sure, here's an example README.md file for your Unity game using the Photon plugin:
-
 # Multiplayer Game with Unity and Photon
 
 This is a simple multiplayer game developed with Unity using the Photon plugin. The game features a third-person character for each player, and supports both PC and phone inputs to control the character. The game also has a mechanism for joining and leaving rooms, and rooms are mapped to how many players have joined the game.
